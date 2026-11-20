@@ -22,7 +22,8 @@ Hi! I'm building this site directly on GitHub Pages.
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td></td><td><a href="2511.11929v1.pdf">Read my November 2026 report here</a></td>
+
       <td></td>
     </tr>
     <tr>
